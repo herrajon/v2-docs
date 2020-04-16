@@ -8,7 +8,7 @@ Returns `true` if date is in the past.
 
 ```.language-yaml
 date: October 21 2015
-another_date: November 2019
+another_date: November 2020
 ```
 
 ```
